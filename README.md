@@ -1,5 +1,11 @@
 # UN-SDG East Africa Dashboard Project
 
+*SDG monitoring and analytics dashboard supporting East African governance and policy decisions; Python.*
+
+![category](https://img.shields.io/badge/category-monitoring-evaluation-8B5CF6?style=flat-square) ![language](https://img.shields.io/badge/language-Python-2563EB?style=flat-square) ![license](https://img.shields.io/badge/license-MIT-16A34A?style=flat-square) ![maintenance](https://img.shields.io/badge/maintenance-active-16A34A?style=flat-square) ![repo](https://img.shields.io/badge/repo-un--sdg--east--africa-111827?style=flat-square)
+
+---
+
 ## 📌 Overview
 This project builds a reproducible **data science + Power BI dashboard** to track progress on the United Nations Sustainable Development Goals (SDGs) across East African countries. It integrates open datasets from the UN, World Bank, WHO, and UNICEF, applies AI/ML forecasting, and delivers actionable insights for policymakers, NGOs, and donors.
 
@@ -61,7 +67,7 @@ un-sdg-eastafrica/
 
 ### 1. Clone & Setup
 ```bash
-git clone https://github.com/bucky-ops/un-sdg-eastafrica.git
+git clone https://github.com/collins-muchiri/un-sdg-east-africa.git
 cd un-sdg-eastafrica
 ```
 
@@ -126,3 +132,7 @@ See `LICENSE` file for details.
 
 ## 📧 Contact
 For questions or collaboration, contact the project maintainers on GitHub.
+
+## Contribution and license
+
+Issues and pull requests are welcome — please open an issue describing the proposed change before submitting substantive work. This project is released under the MIT License.
